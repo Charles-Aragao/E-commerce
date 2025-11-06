@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ECommerceApp",
+            "request": "launch",
+            "mainClass": "com.ecommerce.ECommerceApp",
+            "projectName": "ecommerce-java_b3f5de47"
+        },
+        {
+            "type": "java",
+            "name": "E-Commerce App",
+            "request": "launch",
+            "mainClass": "com.ecommerce.ECommerceApp",
+            "projectName": "ecommerce-java"
+        }
+    ]
+}
